@@ -1,5 +1,5 @@
 [workspace]
 resolver = "2"
 members = [
-    "02_hello_cargo/*", "03_guessing_game/guessing_game", "04_variables/variables",
+    "02_hello_cargo/*", "03_guessing_game/guessing_game", "04_variables/variables", "05_functions/functions", "06_branches/branches",
 ]
